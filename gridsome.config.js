@@ -1,8 +1,8 @@
 module.exports = {
-  siteName: 'Urinary Incontinence Miami',
-  siteDescription: 'UI is usually known as the loss of urine without control',
+  siteName: 'Lorem ipsum dolor.',
+  siteDescription: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam atque, illo, asperiores nihil aperiam totam.',
   icon: {
-    favicon: 'src/static/favicon.png',
+    favicon: 'static/favicon.png',
   },
   plugins: []
 }
